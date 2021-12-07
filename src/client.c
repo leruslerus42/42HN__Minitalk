@@ -6,7 +6,7 @@
 /*   By: rrajaobe <rrajaobe@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/11/09 14:35:01 by rrajaobe          #+#    #+#             */
-/*   Updated: 2021/12/07 02:18:25 by rrajaobe         ###   ########.fr       */
+/*   Updated: 2021/12/07 03:03:46 by rrajaobe         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -119,9 +119,9 @@ int	main(int argc, char **argv)
 		while (two_power <= 128)
 		{
 			if (argv[2][i] & two_power)
-				kill (pid, SIGUSR2);
+				kill (pi, SIGUSR2);
 			else
-				kill (pid, SIGUSR1);
+				kill (pi, SIGUSR1);
 			two_power *= 2;
 			usleep(100);
 		}
