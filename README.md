@@ -19,4 +19,5 @@ As all other C projects at the 42 school, the code has to written in accordance 
 - only 5 functions per file
 
 ## RESULT 
-<img width="1174" alt="Screenshot 2022-10-31 at 04 57 00" src="https://user-images.githubusercontent.com/85942176/198928004-04299712-c2fc-4dfe-9100-3cdada68f094.png">
+
+<img width="846" alt="Screenshot 2022-11-01 at 07 12 31" src="https://user-images.githubusercontent.com/85942176/199170406-7b00bd04-de11-4ef0-9be8-80f601d8bd72.png">
